@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jdvcDev/Lantern-nodejs-hello-hello_world_api.git"
+    "url": "git+https://github.com/jdvcDev/Lantern-nodejs-hello_world_api.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jdvcDev/Lantern-nodejs-hello-hello_world_api/issues"
+    "url": "https://github.com/jdvcDev/Lantern-nodejs-hello_world_api/issues"
   },
-  "homepage": "https://github.com/jdvcDev/Lantern-nodejs-hello-hello_world_api#readme",
+  "homepage": "https://github.com/jdvcDev/Lantern-nodejs-hello_world_api#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
